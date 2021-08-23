@@ -14,14 +14,14 @@
 
 <script>
 export default {
-  name: 'EventCard',
+  name: "EventCard",
   props: {
     event: {
       type: Object,
       required: true,
     },
   },
-}
+};
 </script>
 
 <style scoped>
